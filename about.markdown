@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: About Me 
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I try to live by two principles
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+1. Treat others how you want to be treated.
+2. Be proud of what you do. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Since I started working I have been a plumber, a programmer, a permaculturist, a farmer, a beekeeper, a father and again a programmer.
 
+I have done my best in every task I have undertaken and that, mixed with such a broad range of disciplines, gives me an interdisciplinary perspective.
 
-[jekyll-organization]: https://github.com/jekyll
+I will write about different themes but mostly about programming. 
+
+I hope you enjoy it.
