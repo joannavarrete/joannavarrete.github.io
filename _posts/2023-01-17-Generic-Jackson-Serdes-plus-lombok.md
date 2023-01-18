@@ -2,7 +2,7 @@
 layout: post
 title:  "Generic Jackson Serde (Serlializer - Deserializer) with Lombok for Kafka Streams "
 date:   2023-01-17 16:56:37 +0100
-categories: jackson java kafka
+tags: jackson java kafka
 language: EN
 ---
 
