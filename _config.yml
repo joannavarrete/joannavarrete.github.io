@@ -2,7 +2,7 @@
 title:               Mioclonos
 tagline:             ''
 description:         'A simple personal website'
-url:                 https://joannavarrete.github.io/
+url:                 https://joannavarrete.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
