@@ -16,7 +16,7 @@ It is also true that writing your own `Serdes` is not fun at all.
 I came up with a solution that satisfies me: a Generic Jackson Serdes to use for any Data Type
 
 {% highlight java  %}
- new JacksonSerdes<>(BigDecimal.class);
+ new JacksonSerdes<>(Transaction.class);
 {% endhighlight %}
 
 
