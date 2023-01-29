@@ -45,4 +45,4 @@ But, keep in mind that you could always first [modularice the Monolith](https://
 ---
 #### References
 
-[^1] [Building Microservices 2nd](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
+[^1]: [Building Microservices 2nd](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
