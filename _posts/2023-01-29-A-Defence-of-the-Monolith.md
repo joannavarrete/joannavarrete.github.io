@@ -8,7 +8,7 @@ language: EN
 >The Monolith should be the sensible default choice as an architectural style. 
 In other words, I am looking for a reason to be convinced to use microservices, rather than looking for a reason not to use them. [^1]
 
-That affirmation could be counter-intuitive, even more as we see a great deal of new application developments **starting from zero with a Microservices architecture**. But that is how it works a lot of times in the software industrie: we take a path because everyone is taking it, because is the latest trend or because we wan to be prepared in case we are the next Twitter, Google or Amazon. 
+That affirmation could be counter-intuitive, even more as we see a great deal of new application developments **starting from zero with a Microservices architecture**. But that is how it works a lot of times in the software industry: we take a path because everyone is taking it, because is the latest trend or because we want to be prepared in case we are the next Twitter, Google or Amazon. 
 
 In the end we all know that a monolith is not agile: making one change means re-deploying the whole application, everything is coupled, maybe it uses a shared database (oh, my God), and it doesn't scale well (arguable).
 
