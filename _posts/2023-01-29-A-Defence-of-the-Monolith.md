@@ -36,7 +36,7 @@ In the first stages of a project, mixing the definition of the problem domain wi
 
 If your services are going to be totally independent they are going to interchange a lot of data, maybe to a streaming processing framework. You are going to have to think about these details and make decisions. And that increment in complexity should be cost-effective.
 
-You change something when it **starts** giving you problems. Maybe you are waiting for one team to reflect the changes of another team to deploy, and feel that the architecture is limiting you.
+You change something when it **starts** giving you problems. Maybe you are waiting for one team to reflect the changes of another team to deploy, and feel that the architecture is limiting you. Or maybe you Monolith doesn't scale well and you have to split the problematic parts to scale them separately.
 
 The key in the sentence above is ''**starts**'', if we wait too long the developers are going to solve that limitations with shortcuts, and by when you want to change it will be more difficult.
 
